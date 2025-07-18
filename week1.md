@@ -43,7 +43,9 @@
 
 이번 주는 아래의 4가지 퀘스트를 각자 AI 도구를 활용해 수행하였고, 도구가 겹치지 않도록 분배하였습니다.  
 
-### 🧩 퀘스트1. 노래 제작 및 공유하기
+### 🧩 퀘스트1. 노래 제작 및 공유하기   
+https://suno.com/s/4nXWLk9NFkEYKSde   
+
 <img width="1300" height="1464" alt="image" src="https://github.com/user-attachments/assets/cfee0715-82dd-4a73-8e7b-f8fc7bf5c9f8" />
 
 
