@@ -44,20 +44,20 @@
 이번 주는 아래의 4가지 퀘스트를 각자 AI 도구를 활용해 수행하였고, 도구가 겹치지 않도록 분배하였습니다.  
 
 ### 🧩 퀘스트1. 노래 제작 및 공유하기
-<img width="1000" height="2192" alt="image" src="https://github.com/user-attachments/assets/667c9e5a-2769-486a-a39a-9e755dd09be0" />
+<img width="1300" height="1464" alt="image" src="https://github.com/user-attachments/assets/cfee0715-82dd-4a73-8e7b-f8fc7bf5c9f8" />
 
 
 ### 🧩 퀘스트2. 소설 만들기
+<img width="1300" height="1400" alt="image" src="https://github.com/user-attachments/assets/ae6bcb5e-9175-4cc9-8bd2-62320f343ee9" />
 
-<img width="1000" height="1792" alt="image" src="https://github.com/user-attachments/assets/eb95b829-1cfc-4165-b961-e0805aebf793" />
 
 
 ### 🧩 퀘스트3. 내가 학습한 내용 자랑하기
-<img width="1000" height="2016" alt="image" src="https://github.com/user-attachments/assets/025e2eb6-eb95-4e3c-a370-954255fa3503" />
+<img width="1300" height="1400" alt="image" src="https://github.com/user-attachments/assets/43f4e4c3-7adc-4aa0-b553-d9df51e734ee" />
 
 
 ### 🧩 퀘스트4. 힘들었던 순간을 그림으로 표현하기
-<img width="1000" height="1832" alt="image" src="https://github.com/user-attachments/assets/883e823e-8c94-4bf7-b5f5-8514d8ec9686" />
+<img width="1300" height="1400" alt="image" src="https://github.com/user-attachments/assets/ee99c8e8-8fdf-409f-9db7-05d0c2a67b12" />
 
 
 ---
