@@ -70,6 +70,25 @@ https://suno.com/s/4nXWLk9NFkEYKSde
 - 퀘스트1. 노래 제작 및 공유하기  
 - 이유: 아직 AI로 음악을 만들어본 경험이 없어서 도전으로 선택했습니다.
 음악으로 개발경험을 추억하고, 이후에 힘들 때 노동요로 쓰기 위함입니다.
+> 퀘스트 수행과정  
+> #### 작업 환경  
+> Suno, AI make song
+>
+> #### 작업과정
+> 1. ChatGPT에게 오늘 공부한 비동기 프로그래밍에 대한 힙합 가사와 k-pop 가사를 만들어 달라고 요청
+> 2. Suno, AI making 사이트에 가사와 스타일을 입력해서 제작.
+>    
+---
+> #### 결과물
+> 1. K- POP 버전
+> https://suno.com/s/JKIPM0DhzKNcwM7f
+> 2. 힙합 버전
+> https://suno.com/s/VWPgrON8epThv61C
+> #### 후기  
+> AI들이 오바쌈바하면서 적극적으로 만들어주는 걸 보면 뭔가 재밌다.  
+> <img width="415" height="55" alt="image" src="https://github.com/user-attachments/assets/76c9012d-d020-401d-8087-b309ebcf7355" />  
+> AI make song에서 나온 힙합 버전이 쇼미더머니 같고 좋았는데 공유가 안되어서 아쉽다.  
+> 내 생각보다 훨씬 간단하게 음악을 만들어줘서 심심하면 하면 좋은 것 같다. 강추!  
 
 
 ### J237_장재혁
