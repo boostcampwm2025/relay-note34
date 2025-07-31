@@ -139,6 +139,79 @@ AI를 활용해 내가 학습한 내용을 **다른 사람이 더 쉽고 직관�
 - 퀘스트: #1. 개발자는 일기도 코드로 써
 - 선택한 이유: 어떤 감정이나 사례를 표현하는 AI의 한계를 알아 보기 위해서이다.
 
+- 작업 과정 및 결과
+
+과정 
+
+```
+나는 오늘 하루 바빠서 중간에 낮잠을 여러번 잤어. 내 하루를 코드로 표현해줘.
+```
+
+결과
+
+```
+function myBusyDayWithNaps() {
+    console.log("하루를 시작합니다!");
+
+    // 비동기 함수를 위한 지연 함수
+    const delay = (ms) => new Promise(res => setTimeout(res, ms));
+
+    async function simulateDay() {
+        // 아침 활동
+        console.log("\n[오전] 아침 활동 중...");
+        await delay(1000); // 1초 지연
+        console.log("간단한 아침 식사를 합니다.");
+        await delay(1000);
+        console.log("업무/공부 시작!");
+        await delay(2000);
+
+        // 첫 번째 낮잠
+        console.log("\n--- 첫 번째 낮잠 시간 ---");
+        console.log("피곤해서 잠깐 눈을 붙입니다...");
+        await delay(3000); // 3초 낮잠
+        console.log("상쾌하게 일어났습니다!");
+
+        // 점심 및 오후 활동
+        console.log("\n[오후] 점심 식사 후 활동 중...");
+        await delay(1000);
+        console.log("점심 식사를 합니다.");
+        await delay(1000);
+        console.log("오후 업무/공부 계속...");
+        await delay(2000);
+
+        // 두 번째 낮잠
+        console.log("\n--- 두 번째 낮잠 시간 ---");
+        console.log("또 피곤하네요. 잠깐만 더 자야겠어요...");
+        await delay(2000); // 2초 짧은 낮잠
+        console.log("다시 힘내서 일어났습니다!");
+
+        // 저녁 활동
+        console.log("\n[저녁] 저녁 활동 중...");
+        await delay(1000);
+        console.log("저녁 식사를 준비하고 먹습니다.");
+        await delay(1000);
+        console.log("개인 시간 (휴식, 취미 등)...");
+        await delay(2000);
+
+        // 세 번째 낮잠 (선택 사항)
+        console.log("\n--- 세 번째 낮잠 (혹시 필요하다면) ---");
+        console.log("밤이 되기 전에 잠깐 더 충전할까요?");
+        await delay(1500); // 1.5초 짧은 낮잠
+        console.log("이제 정말 하루를 마무리할 시간!");
+
+        console.log("\n하루를 마칩니다. 수고 많으셨습니다!");
+    }
+
+    simulateDay();
+}
+
+// 함수 실행
+myBusyDayWithNaps();
+```
+인사이트 : 
+
+AI가 감정을 코드로 표현 할수 있는게 놀라웠습니다. 그리고 생각보다 잘 표현한 것 같습니다. 그렇지만 감정을 조금 직관적으로 코드로 표현하는것 같습니다. 
+
 ### J170 윤재현
 
 - 퀘스트: #2. 학습한 내용, 4컷으로 설명하기
