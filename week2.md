@@ -187,6 +187,10 @@ fun main() {
   - https://suno.com/s/Mj9MrnAmgDTU8g8Q
   - 밴드 버전: https://suno.com/s/WyPBPpspqtMgmP8s
 
+- 슬랙 공유 결과:
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/9dba2526-6a74-44a8-a6cb-c1fcf32a5974" />
+
+
 - **느낀점:**
   - 학습에 도움이 되는 퀘스트를 진행하려고 했지만, 힐링 릴프가 본능적으로 끌리는 것 같습니다. 그래서 다른 퀘스트도 추가로 진행했습니다.
   - suno로 노래를 생성해 보았는데, 키워드를 줘도 한국 느낌이 많이 나서 프롬프트를 어떻게 작성할지 더 고민해봐야할 것 같습니다.
