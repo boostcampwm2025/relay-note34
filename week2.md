@@ -232,6 +232,10 @@ fun main() {
   😵 개선... 졸려도 한다...
   ```
 
+  **슬랙 공유 결과**
+
+  <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/05398dda-1913-468d-84db-59f516619917" />
+
   위처럼 AI 오늘 하루의 나를 코드로 표현해주었고, 코드를 슬랙 random 채널에 공유했습니다.
 
   결과를 실행해보니 제 상태를 꽤 그럴듯하게 표현해줘서 웃으면서 진행했습니다.
