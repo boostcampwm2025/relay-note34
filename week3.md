@@ -297,5 +297,34 @@ function multiply(numbers) {
 - 선택한 이유: 코드를 가독성 좋게 만드는 데 있어 변수명은 중요한 요소라고 생각한다. 기능에 맞는 변수명을 작성하는 연습을 통해 더 명확한 코드 작성 습관을 기르고자 한다.
 - 목표: 릴레이 미션을 통해 변수명을 기능에 맞게 개선하는 연습을 하고, 이를 챌린지 미션 코드에도 적용해 본다.
 
+<details>
+	<summary>결과</summary>
+	```
+	function x(b) {
+	let y = [];
+	for (let i = 0; i < b.length; i++) {
+		if (b[i] % 2 === 0) {
+			y.push(b[i]);
+		}
+	}
+	return y;
+}
+```
+해석: 배열 b 를 받아서 그 요소중 짝수인 부분만 y 에 넣는다
+  ```
+x => findEven
+b => numArr
+y => evenArr
 
+function findEven(numArr) {
+	let evenArr = [];
+	for (let i = 0; i < numArr.length; i++) {
+		if (numArr[i] % 2 === 0) {
+			evenArr.push(numArr[i]);
+		}
+	}
+	return evenArr;
+}
+```
+</details>
 
