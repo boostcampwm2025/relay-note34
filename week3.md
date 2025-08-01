@@ -299,6 +299,7 @@ function multiply(numbers) {
 
 <details>
 	<summary>결과</summary>
+	
 	```
 	function x(b) {
 	let y = [];
@@ -308,9 +309,11 @@ function multiply(numbers) {
 		}
 	}
 	return y;
-}
-```
+	}
+
+	```
 해석: 배열 b 를 받아서 그 요소중 짝수인 부분만 y 에 넣는다
+		
   ```
 x => findEven
 b => numArr
